@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-- Tonic water
-- Gin
-- Lemon/lime etc.
-- Ice
+- tonic water
+- gin
+- lemon/lime etc.
+- ice
 
 ## Instructions
 
