@@ -1,4 +1,4 @@
-# Recipe name
+# Gin Tonic
 
 ## Ingredients
 
